@@ -48,7 +48,6 @@ Security Group is like a virtual firewall for your EC2 instance and other resour
 ## Route 53:
 Route 53 provides DNS as a service. When you try to access any domain Route 53 intercepts the domain and in the hosted zone Route 53 will look for the DNS records. Route 53 also supports health services on web services.
 
-<<<<<<< HEAD
 # AWS CloudWatch
 AWS CloudWatch is the gatekeeper for AWS which will help you with monitoring, alerting, reporting and logging. It helps in tracking metrics, analyzing logs, setting alarms, and optimizing performance and cost.
 
